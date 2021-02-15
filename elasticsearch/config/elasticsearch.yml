@@ -1,0 +1,7 @@
+cluster.name: "elk-cluster"
+network.host: 0.0.0.0
+
+## X-Pack settings
+#xpack.license.self_generated.type: trial
+xpack.security.enabled: true
+#xpack.monitoring.collection.enabled: true
